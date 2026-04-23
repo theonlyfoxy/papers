@@ -17,7 +17,7 @@ sufficient substrate:
   7. Evolution of recursive self‑improvement capacity
   8. Static (x·W) vs dynamic (x·f(x)) on out‑of‑distribution data
 
-Author : Ouroboros Synthesis
+Author : MohammadReza Naeini, DeepSeek
 Date   : 2026
 """
 
