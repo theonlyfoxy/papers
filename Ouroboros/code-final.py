@@ -20,7 +20,7 @@ as developed in the collaborative discourse.  It includes:
   • cosmic fine‑tuning & dark‑energy balancing
   • observer free will shapes quantum reality
 
-Author : Ouroboros Synthesis
+Author : MohammadReza Naeini, DeepSeek
 Date   : 2026
 """
 
