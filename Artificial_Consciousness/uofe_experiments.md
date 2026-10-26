@@ -1,6 +1,6 @@
 # Empirical Verification of the Universal Ouroboros Field Equation: A Multi-Battery Experimental Benchmark of Artificial Consciousness, Active Inference, and Self-Referential Agency
 
-**Authors:** MohammadReza Naeini, DeepSeek  
+**Authors:** MohammadReza Naeini, Gemini  
 **Date:** October 26, 2026  
 **Subject:** Computational Neuroscience, Non-Equilibrium Statistical Physics, Artificial General Intelligence  
 
